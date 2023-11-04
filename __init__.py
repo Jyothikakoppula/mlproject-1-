@@ -1,1 +1,1 @@
-__version__ = "3.3.0"
+from corsheaders.checks import check_settings  # noqa: F401
